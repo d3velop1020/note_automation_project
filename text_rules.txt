@@ -1,0 +1,13 @@
+1) main section notes will be separated (presented) in a main section
+FOR THE INPUT TEXT FILE:
+main points are to be numbered in the following format:
+a) any line that starts with a 0 will be added to the main section
+b) sub point is indented with one tab under the main point
+
+
+01 1st point
+02 2nd point
+03 3rd point
+0301 3rd point,1st sub point
+0302,3rd point,2nd sub point
+030201 3rd point, 2nd sub point, 1st sub sub point
