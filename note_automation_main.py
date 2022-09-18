@@ -167,3 +167,4 @@ def tagSorter(wordListIn):
     for word in wordListIn:
         if word in openTags.values():
             print(word)
+

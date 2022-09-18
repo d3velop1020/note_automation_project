@@ -1,0 +1,27 @@
+01 a list is a <def> sequence:  <.def.>
+01.01 this is a point
+01.01 that spans multiple lines
+01.01 hear me roar
+02 <def> I call comma seperated items in a list items, and if items have items, the smallest building blocks of a list are called elements.
+<.def.>
+03 <syn> the simplest way to make a new list is to enclose the items in square brackets: myList = [10,20,30]
+<.syn.>
+the items in a list don't have to be the same type
+
+04 <def> a list inside a list is called: nested <.def.>
+
+05 <syn> use myList[0] = 'hello world' to access the first item of a list <.syn.>
+
+06 <syn> recall negative indices, where [-1] is the index of the final item <.syn.>
+
+07 indices can be expressions myList[i+i] , where i = 1
+
+08 <syn> range function: range(5): returns a range object: an interable sequence of indices from 0 to n-1 <.syn.>
+to traverse and read the elements is the in operator, to write or update elements use indices
+
+09 hello
+010 world
+011 this point has three digits
+010
+01.01 point with one dot
+01.01.01 point with two dots
